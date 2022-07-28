@@ -1,0 +1,14 @@
+G:\LPF\Assignment1\Employee_Wage\empparttime\empparttime\bin\Debug\netcoreapp3.1\empparttime.exe
+G:\LPF\Assignment1\Employee_Wage\empparttime\empparttime\bin\Debug\netcoreapp3.1\empparttime.deps.json
+G:\LPF\Assignment1\Employee_Wage\empparttime\empparttime\bin\Debug\netcoreapp3.1\empparttime.runtimeconfig.json
+G:\LPF\Assignment1\Employee_Wage\empparttime\empparttime\bin\Debug\netcoreapp3.1\empparttime.runtimeconfig.dev.json
+G:\LPF\Assignment1\Employee_Wage\empparttime\empparttime\bin\Debug\netcoreapp3.1\empparttime.dll
+G:\LPF\Assignment1\Employee_Wage\empparttime\empparttime\bin\Debug\netcoreapp3.1\empparttime.pdb
+G:\LPF\Assignment1\Employee_Wage\empparttime\empparttime\obj\Debug\netcoreapp3.1\empparttime.csproj.AssemblyReference.cache
+G:\LPF\Assignment1\Employee_Wage\empparttime\empparttime\obj\Debug\netcoreapp3.1\empparttime.GeneratedMSBuildEditorConfig.editorconfig
+G:\LPF\Assignment1\Employee_Wage\empparttime\empparttime\obj\Debug\netcoreapp3.1\empparttime.AssemblyInfoInputs.cache
+G:\LPF\Assignment1\Employee_Wage\empparttime\empparttime\obj\Debug\netcoreapp3.1\empparttime.AssemblyInfo.cs
+G:\LPF\Assignment1\Employee_Wage\empparttime\empparttime\obj\Debug\netcoreapp3.1\empparttime.csproj.CoreCompileInputs.cache
+G:\LPF\Assignment1\Employee_Wage\empparttime\empparttime\obj\Debug\netcoreapp3.1\empparttime.dll
+G:\LPF\Assignment1\Employee_Wage\empparttime\empparttime\obj\Debug\netcoreapp3.1\empparttime.pdb
+G:\LPF\Assignment1\Employee_Wage\empparttime\empparttime\obj\Debug\netcoreapp3.1\empparttime.genruntimeconfig.cache
