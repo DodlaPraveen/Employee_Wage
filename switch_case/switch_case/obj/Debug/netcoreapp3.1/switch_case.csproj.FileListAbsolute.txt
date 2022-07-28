@@ -1,0 +1,14 @@
+G:\LPF\Assignment1\Employee_Wage\switch_case\switch_case\bin\Debug\netcoreapp3.1\switch_case.exe
+G:\LPF\Assignment1\Employee_Wage\switch_case\switch_case\bin\Debug\netcoreapp3.1\switch_case.deps.json
+G:\LPF\Assignment1\Employee_Wage\switch_case\switch_case\bin\Debug\netcoreapp3.1\switch_case.runtimeconfig.json
+G:\LPF\Assignment1\Employee_Wage\switch_case\switch_case\bin\Debug\netcoreapp3.1\switch_case.runtimeconfig.dev.json
+G:\LPF\Assignment1\Employee_Wage\switch_case\switch_case\bin\Debug\netcoreapp3.1\switch_case.dll
+G:\LPF\Assignment1\Employee_Wage\switch_case\switch_case\bin\Debug\netcoreapp3.1\switch_case.pdb
+G:\LPF\Assignment1\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\switch_case.csproj.AssemblyReference.cache
+G:\LPF\Assignment1\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\switch_case.GeneratedMSBuildEditorConfig.editorconfig
+G:\LPF\Assignment1\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\switch_case.AssemblyInfoInputs.cache
+G:\LPF\Assignment1\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\switch_case.AssemblyInfo.cs
+G:\LPF\Assignment1\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\switch_case.csproj.CoreCompileInputs.cache
+G:\LPF\Assignment1\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\switch_case.dll
+G:\LPF\Assignment1\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\switch_case.pdb
+G:\LPF\Assignment1\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\switch_case.genruntimeconfig.cache
