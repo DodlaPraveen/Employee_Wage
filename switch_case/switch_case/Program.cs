@@ -8,16 +8,17 @@ namespace switch_case
         public const int Is_Fulltime = 2;
         public const int Emp_Rateperhr = 20;
         public const int Num_Working_Day = 20;
+        public const int Max_Hrs_In_Month = 100;
 
         static void Main(string[] args)
         {
             int emphr = 0;
-            int empWage = 0;
-            int totalEmpWage = 0;
+            int totalhrs = 0;
+            int totalworkingdays = 0;
 
-            for (int day = 0; day < Num_Working_Day; day++)
+            while (totalhrs <= Max_Hrs_In_Month && totalworkingdays < Num_Working_Day)
             {
-
+                totalworkingdays++;
                 Random random = new Random();
 
                 int empCheck = random.Next(0, 3);
@@ -34,13 +35,12 @@ namespace switch_case
                         break;
                 }
 
-                empWage = emphr * Emp_Rateperhr;
-                totalEmpWage += empWage;
-                Console.WriteLine("Empwage :" + empWage);
-
-
+                totalhrs += emphr;
+                
+                Console.WriteLine("Day#:" + totalworkingdays + "Emp hr :" + emphr);
             }
-            Console.WriteLine("Total Emp Wag :" + totalEmpWage);
+            int totalEmpwage = totalhrs * Emp_Rateperhr;
+            Console.WriteLine("Total Emp Wag :" + totalEmpwage);
         }
     }
 }
