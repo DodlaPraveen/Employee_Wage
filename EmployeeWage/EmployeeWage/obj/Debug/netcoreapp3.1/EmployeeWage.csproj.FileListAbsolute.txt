@@ -1,0 +1,14 @@
+G:\LPF\Assignment1\EmployeeWage\EmployeeWage\bin\Debug\netcoreapp3.1\EmployeeWage.exe
+G:\LPF\Assignment1\EmployeeWage\EmployeeWage\bin\Debug\netcoreapp3.1\EmployeeWage.deps.json
+G:\LPF\Assignment1\EmployeeWage\EmployeeWage\bin\Debug\netcoreapp3.1\EmployeeWage.runtimeconfig.json
+G:\LPF\Assignment1\EmployeeWage\EmployeeWage\bin\Debug\netcoreapp3.1\EmployeeWage.runtimeconfig.dev.json
+G:\LPF\Assignment1\EmployeeWage\EmployeeWage\bin\Debug\netcoreapp3.1\EmployeeWage.dll
+G:\LPF\Assignment1\EmployeeWage\EmployeeWage\bin\Debug\netcoreapp3.1\EmployeeWage.pdb
+G:\LPF\Assignment1\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp3.1\EmployeeWage.csproj.AssemblyReference.cache
+G:\LPF\Assignment1\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp3.1\EmployeeWage.GeneratedMSBuildEditorConfig.editorconfig
+G:\LPF\Assignment1\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp3.1\EmployeeWage.AssemblyInfoInputs.cache
+G:\LPF\Assignment1\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp3.1\EmployeeWage.AssemblyInfo.cs
+G:\LPF\Assignment1\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp3.1\EmployeeWage.csproj.CoreCompileInputs.cache
+G:\LPF\Assignment1\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp3.1\EmployeeWage.dll
+G:\LPF\Assignment1\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp3.1\EmployeeWage.pdb
+G:\LPF\Assignment1\EmployeeWage\EmployeeWage\obj\Debug\netcoreapp3.1\EmployeeWage.genruntimeconfig.cache
