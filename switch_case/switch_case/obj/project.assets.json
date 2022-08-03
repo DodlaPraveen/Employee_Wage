@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\LPF\\Assignment1\\Employee_Wage\\switch_case\\switch_case\\switch_case.csproj",
+      "projectUniqueName": "G:\\LPF\\Day8practice\\Employee_Wage\\switch_case\\switch_case\\switch_case.csproj",
       "projectName": "switch_case",
-      "projectPath": "G:\\LPF\\Assignment1\\Employee_Wage\\switch_case\\switch_case\\switch_case.csproj",
+      "projectPath": "G:\\LPF\\Day8practice\\Employee_Wage\\switch_case\\switch_case\\switch_case.csproj",
       "packagesPath": "C:\\Users\\PRAVEEN\\.nuget\\packages\\",
-      "outputPath": "G:\\LPF\\Assignment1\\Employee_Wage\\switch_case\\switch_case\\obj\\",
+      "outputPath": "G:\\LPF\\Day8practice\\Employee_Wage\\switch_case\\switch_case\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

@@ -37,7 +37,7 @@ namespace switch_case
 
                 totalhrs += emphr;
                 
-                Console.WriteLine("Day#:" + totalworkingdays + "Emp hr :" + emphr);
+                Console.WriteLine("Day# :" + totalworkingdays + "Emp hr :" + emphr);
             }
             int totalEmpwage = totalhrs * Emp_Rateperhr;
             Console.WriteLine("Total Emp Wag :" + totalEmpwage);
