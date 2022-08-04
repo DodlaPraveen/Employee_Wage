@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H1qOSrpmu1Bu4U75m3KjDtSv2/dPKnmO6Xf/rAcBxgWNrvb86eD5eM49XRWRJN0x7NoXHDemIQDQlQDC4x4B+w==",
+  "dgSpecHash": "KjiJVNRhEIYF5FR+QdeieHakS36NBqbiLCu6F2RnSbxko7hs6o70BzRw+e543tQe7t54s8nIoG+dx8TFR+m4pQ==",
   "success": true,
-  "projectFilePath": "G:\\LPF\\Day8practice\\Employee_Wage\\switch_case\\switch_case\\EmpWage.csproj",
+  "projectFilePath": "G:\\LPF\\Day10empwage\\Employee_Wage\\switch_case\\switch_case\\EmpWage.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -12,3 +12,10 @@ G:\LPF\Day8practice\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.
 G:\LPF\Day8practice\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\EmpWage.dll
 G:\LPF\Day8practice\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\EmpWage.pdb
 G:\LPF\Day8practice\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\EmpWage.genruntimeconfig.cache
+G:\LPF\Day10empwage\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\EmpWage.csproj.AssemblyReference.cache
+G:\LPF\Day10empwage\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\EmpWage.GeneratedMSBuildEditorConfig.editorconfig
+G:\LPF\Day10empwage\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\EmpWage.AssemblyInfoInputs.cache
+G:\LPF\Day10empwage\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\EmpWage.AssemblyInfo.cs
+G:\LPF\Day10empwage\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\EmpWage.csproj.CoreCompileInputs.cache
+G:\LPF\Day10empwage\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\EmpWage.dll
+G:\LPF\Day10empwage\Employee_Wage\switch_case\switch_case\obj\Debug\netcoreapp3.1\EmpWage.pdb
